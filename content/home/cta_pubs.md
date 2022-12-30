@@ -2,6 +2,8 @@
 title: 'Featured publications:'
 subtitle:
 
+
+
 widget: blank
 headless: true
 weight: 35
@@ -15,7 +17,7 @@ design:
     text_color_light: false
 
 # Activate this widget? true/false
-active: true
+active: false
 
 
 #{{% cta cta_link="./publication/" cta_text="View our publications" %}} 

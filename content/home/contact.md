@@ -15,14 +15,14 @@ weight: 85
 content:
   # Contact (edit or remove options as required)
   address: 
-    street: Ramsay Wright Laboratories, 25 Harbord St.
+    street: MaRS West Tower
     city: Toronto
     region: Ontario
     postcode: M5S 3G5
     country: Canada
     country_code: CAN
-  phone: 888 888 88 88
-  email: max.shafer@gmail.com
+#  phone: 888 888 88 88
+#  email: max.shafer@gmail.com
 #  coordinates:
 #    latitude: '37.4275'
 #    longitude: '-122.1697'

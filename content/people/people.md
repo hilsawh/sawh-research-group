@@ -9,19 +9,19 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Lab Members
+title: lab members
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Assistant Professor
-#    - Researchers
-    - Grad Students
-#    - Administration
-#    - Visitors
-    - Alumni
+    - assistant professor
+#    - researchers
+    - grad students
+#    - administration
+#    - visitors
+    - alumni
 design:
   show_interests: false
   show_role: true

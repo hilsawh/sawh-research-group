@@ -7,11 +7,12 @@ weight: 10 # Order that this section will appear.
 design:
   is_fullscreen: true
   background:
-    video:
-      # Name of video in `assets/media/`.
-      path: Cichlid_clips_medium.mp4
-      # Post-processing: flip the video horizontally?
-      flip: false
+    image: rainbow_merge.jpg
+    # video:
+    #   # Name of video in `assets/media/`.
+    #   path: Cichlid_clips_medium.mp4
+    #   # Post-processing: flip the video horizontally?
+    #   flip: false
 
 advanced:
   css_class: fullscreen
@@ -22,10 +23,10 @@ advanced:
 .centered {
   top:50%;
   left:50%;
-  transform:translate(0,200%)
+  transform:translate(0,400%)
 }
 </style>
 </div>
 </head>
 
-<p class="centered" style="color:#fff;font-size:2.75rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">Decoding the evolution and genomics of sleep</p>
+<p class="centered" style="color:#fff;font-size:1.8rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">the role of nuclear organization in cell fate decisions</p>

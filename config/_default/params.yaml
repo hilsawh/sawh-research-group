@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
+  font: native # minimal, classic, rose, mr robot, cyberpunk, native
   font_size: m
   theme_day: minimal
   background:
@@ -33,7 +33,7 @@ marketing:
 header:
     navbar:
     enable: true
-    align: r
+    align: true
     show_logo: true
     show_language: false
     show_day_night: false
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Maxwell Shafer, PhD. This work is licensed under CC BY-NC'
+    notice: '© {year} Ahilya Sawh, PhD. This work is licensed under CC BY-NC'
     license:
       enable: true
       allow_derivatives: true
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/maxshafer/shafer-research-group'
+    url: 'https://github.com/hilsawh/sawh-research-group'
     content_dir: content
     branch: main
   avatar:

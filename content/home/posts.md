@@ -3,7 +3,7 @@ widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Research Overview
+title: research overview
 subtitle: ''
 
 # Activate this widget? true/false
