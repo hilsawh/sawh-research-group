@@ -14,7 +14,7 @@ organizations:
     url: 'https://biochemistry.utoronto.ca/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Comparative genomics, ethology, & evolutionary cell biology
+bio: Spatial genomics, chromosome conformation, & high-throughput developmental biology
 
 interests:
   - The role of nuclear organization in cell fate decisions

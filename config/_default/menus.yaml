@@ -4,15 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: research
-    url: post
-    weight: 10
+  # - name: research
+  #   url: post
+  #   weight: 10
   - name: people
     url: people
     weight: 20
   - name: publications
     url: publication
     weight: 30
-  # - name: CSB @ UofT
-  #   url: https://csb.utoronto.ca/
-  #   weight: 40
+  - name: lab philosophy
+    url: philosophy
+    weight: 40
+  - name: Biochem @ UofT
+    url: https://biochemistry.utoronto.ca/
+    weight: 50

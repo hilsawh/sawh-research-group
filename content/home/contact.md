@@ -15,10 +15,10 @@ weight: 85
 content:
   # Contact (edit or remove options as required)
   address: 
-    street: MaRS West Tower
+    street: MaRS Centre, West Tower
     city: Toronto
     region: Ontario
-    postcode: M5S 3G5
+    postcode: M5G 1M1
     country: Canada
     country_code: CAN
 #  phone: 888 888 88 88

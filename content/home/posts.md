@@ -27,7 +27,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+  count: 2
   # Choose how many pages you would like to offset by
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
@@ -38,16 +38,18 @@ design:
   # Choose a listing view
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
   spacing:
-    padding: ['25px', '0', '25px', '0']
+    padding: ['35px', '0', '35px', '0']
   background:
     color: "white"
     text_color_light: false
 ---
 
-<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b>
+<p align="justify">How does one genome generate a large diversity of cell types, each with unique spatiotemporal gene expression patterns and physiological roles? How does the physical organization of the genome impact its many essential functions during the highly dynamic process of embryonic development?</p> 
 
-<br>
 
-We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach.</p>
+<p align="justify"> In our lab, we study the <b>functional role of genome organization in animal development at the single-molecule level & across biological scales</b> (molecules &rarr; organelles &rarr; cells &rarr; tissues &rarr; organism).</p>
+
+
+<p align="justify">We push the boundaries of high-throughput image-based spatial omics, and complement these approaches with biochemistry & genetics - to gain mechanistic & quantitative insights into <em>in vivo</em> chromatin biology.</p>

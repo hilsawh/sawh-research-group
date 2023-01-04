@@ -7,13 +7,13 @@ weight: 80 # Order that this section will appear.
 
 design:
   background:
-    image: lep_fish_2.jpg
+    image: rainbow_merge.jpg
     image_darken: 0
     image_parallax: false
 #    image_position: center
 #    image_size: cover
     text_color_light: true
   spacing:
-    padding: ['25%', '0', '5%', '0']
+    padding: ['45%', '0', '5%', '0']
 ---
 
