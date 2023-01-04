@@ -5,6 +5,8 @@
 # <p style="color:#fff">SHAFER LAB - Cell & Systems Biology @ UofT COACH</p>
 weight: 80 # Order that this section will appear.
 
+active: false
+
 design:
   background:
     image: rainbow_merge.jpg

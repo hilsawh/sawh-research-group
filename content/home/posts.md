@@ -52,4 +52,4 @@ design:
 <p align="justify"> In our lab, we study the <b>functional role of genome organization in animal development at the single-molecule level & across biological scales</b> (molecules &rarr; organelles &rarr; cells &rarr; tissues &rarr; organism).</p>
 
 
-<p align="justify">We push the boundaries of high-throughput image-based spatial omics, and complement these approaches with biochemistry & genetics - to gain mechanistic & quantitative insights into <em>in vivo</em> chromatin biology.</p>
+<p align="justify">We push the boundaries of high-throughput image-based spatial omics, and complement these approaches with biochemistry & genetics. Ultimately, we will answer fundamental questions that were previously untenable and gain mechanistic & quantitative insights into <em>in vivo</em> chromatin biology.</p>

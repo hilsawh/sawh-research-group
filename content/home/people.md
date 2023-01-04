@@ -23,10 +23,22 @@ content:
     - alumni
     
 design:
-  show_interests: false
-  show_role: true
-  show_social: true
   background:
-    color: "white"
-    text_color_light: false
+    image: rainbow_merge.jpg
+    image_darken: 0
+    image_parallax: false
+#    image_position: center
+#    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['5%', '0', '5%', '0']
+  show_interests: false
+
+# design:
+#   show_interests: false
+#   show_role: true
+#   show_social: true
+#   background:
+#     color: "white"
+#     text_color_light: false
 ---

@@ -8,5 +8,5 @@ image:
 
 How are large-scale chromosome conformations built and broken down <em>in vivo</em>?
 
-To uncover the genetic and molecular determinants of chromosome compartmentalization, we will perform a broad genetic screen and profile the epigenome in single cells.
+To uncover the genetic and molecular determinants of chromosome compartmentalization, we will profile the epigenome in single cells & exploit the power of <em>C. elegans</em> genetics to identify new players.
 

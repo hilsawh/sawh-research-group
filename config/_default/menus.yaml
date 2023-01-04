@@ -16,6 +16,6 @@ main:
   - name: lab philosophy
     url: philosophy
     weight: 40
-  - name: Biochem @ UofT
+  - name: biochem @ UofT
     url: https://biochemistry.utoronto.ca/
     weight: 50
