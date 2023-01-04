@@ -7,12 +7,13 @@ weight: 10 # Order that this section will appear.
 design:
   is_fullscreen: true
   background:
-    image: rainbow_merge.jpg
-    # video:
+    #image: rainbow_merge.jpg
+    video:
     #   # Name of video in `assets/media/`.
     #   path: Cichlid_clips_medium.mp4
+       path: rainbryo_v5.mp4
     #   # Post-processing: flip the video horizontally?
-    #   flip: false
+       flip: false
 
 advanced:
   css_class: fullscreen
@@ -29,4 +30,3 @@ advanced:
 </div>
 </head>
 
-<p class="centered" style="color:#fff;font-size:1.8rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">the role of nuclear organization in cell fate decisions</p>

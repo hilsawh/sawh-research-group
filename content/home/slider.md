@@ -1,6 +1,6 @@
 ---
 widget: slider
-active: true
+active: false
 headless: true
 
 # Order that this section appears on the page.

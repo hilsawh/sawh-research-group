@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: research overview
-subtitle: ''
+subtitle: 'the role of nuclear organization in cell fate decisions'
 
 # Activate this widget? true/false
 active: true
