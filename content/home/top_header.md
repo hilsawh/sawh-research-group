@@ -5,7 +5,7 @@
 # <p style="color:#fff">SHAFER LAB - Cell & Systems Biology @ UofT COACH</p>
 weight: 10 # Order that this section will appear.
 design:
-  is_fullscreen: false
+  is_fullscreen: true
   background:
     #image: rainbow_merge.jpg
     video:
@@ -15,8 +15,8 @@ design:
     #   # Post-processing: flip the video horizontally?
        flip: false
 
-# advanced:
-#   css_class: fullscreen
+advanced:
+  css_class: fullscreen
 ---
 <head>
 <div>
