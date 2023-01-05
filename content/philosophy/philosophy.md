@@ -39,6 +39,10 @@ We emphasize:
 
 &rarr; clear expectations of all lab members 
 
+&rarr; positivity
+
+&rarr; teamwork
+
 </p>
 
 

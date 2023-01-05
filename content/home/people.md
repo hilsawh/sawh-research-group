@@ -33,7 +33,8 @@ design:
   spacing:
     padding: ['5%', '0', '5%', '0']
   show_interests: false
-
+  show_social: true
+  show_role: false
 # design:
 #   show_interests: false
 #   show_role: true
