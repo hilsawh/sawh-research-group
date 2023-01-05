@@ -1,55 +1,48 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# A section created with the Portfolio widget.
+# This section displays content from `content/project/`.
+# See https://wowchemy.com/docs/widget/portfolio/
+widget: portfolio
+active: true
+# This file represents a page section.
+headless: true
 
-widget: blank # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 20 # Order that this section will appear.
+# Order that this section appears on the page.
+weight: 20
 
-active: false
-#title: Research Overview
+title: 'research overview'
+subtitle: 'the role of nuclear organization in cell fate decisions'
+
+content:
+  # Page type to display. E.g. project.
+  page_type: post
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+
+
 design:
-  spacing:
-    padding: ['25px', '0', '25px', '0']
   columns: '2'
+  view: masonry
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [35px, 0, 35px, 0]}
   background:
-    color: "white"
-    text_color_light: false
+    color: "black"
+    text_color_light: true
+    
 ---
-<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b>
 
-<br>
-
-We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach.</p>
+<p align="justify" style="color:gray;">How does one genome generate a large diversity of cell types, each with unique spatiotemporal gene expression patterns and physiological roles? How does the physical organization of the genome impact its many essential functions during the highly dynamic process of embryonic development?</p>
 
 
-<div class="row">
-    <div class="column" style="width:48%">
-      <p align="justify"><b>1) Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes</b></p>
-      <br>
-      <br>
-      <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
-        <div class="" style="max-width: 85%; max-height: 85%;">
-          <figure>
-            <img src ="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2930-4/MediaObjects/41586_2020_2930_Fig1_HTML.png">
-            <figcaption><a href="https://doi.org/10.1038/s41586-020-2930-4">Lake Tanganyikan cichlid phylogeny, <i>Ronco et al, Nature, 2021</i></a></figcaption>
-          </figure>
-          </div>
-        </div>
-    </div>
-    <div class="colum" style="width:4%">
-    </div>
-    <div class="column" style="width:48%">
-      <p align="justify"><b>2) Macro-evolutionary comparisons across bony and cartilaginous fish, and across all vertebrates</b></p>
-      <br>
-      <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
-        <div class="" style="max-width: 70%; max-height: 70%;">
-          <figure>
-            <img src ="https://upload.wikimedia.org/wikipedia/commons/8/8a/Adolphe_Millot_poissons_A.jpg">
-            <figcaption>"Les Poissons" <i>Adolphe Millot, 1923</i></figcaption>
-          </figure>
-          </div>
-        </div>
-      </div>
-</div>
+<p align="justify" style="color:gray;">In our lab, we study the <b>functional role of genome organization in animal development at the single-molecule level & across biological scales</b> (molecules &rarr; organelles &rarr; cells &rarr; tissues &rarr; organism).</p>
+
+
+<p align="justify" style="color:gray;">We push the boundaries of high-throughput image-based spatial omics, and complement these approaches with biochemistry & genetics. Ultimately, we will answer fundamental questions that were previously untenable and gain mechanistic & quantitative insights into <em>in vivo</em> chromatin biology.</p>

@@ -23,9 +23,13 @@ content:
     country_code: CAN
 #  phone: 888 888 88 88
 #  email: max.shafer@gmail.com
-#  coordinates:
-#    latitude: '37.4275'
-#    longitude: '-122.1697'
+  map:
+    provider: 'mapbox'
+    api_key: ''
+    zoom: 10
+  coordinates:
+    latitude: '43.65959229544895'
+    longitude: '-79.38967784450094'
 #  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
