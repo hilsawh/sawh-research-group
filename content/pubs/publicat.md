@@ -9,18 +9,22 @@ weight: 10 # Order that this section will appear.
 
 active: true
 
-title: publications
+title: lab philosophy
 
 design:
+  # Choose a listing view
+  view: compact
+  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
   spacing:
     padding: ['10%', '0', '50%', '0']
   background:
     color: "black"
     text_color_light: true
-    image: elt7gfp.tif
+    image: chrom5his3.jpg
     image_position: center
     image_size: contain
+    
   
 ---
 
