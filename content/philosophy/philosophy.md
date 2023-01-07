@@ -21,7 +21,7 @@ design:
   background:
     color: "black"
     text_color_light: true
-    image: elt7gfp.tif
+    image: chrom5his3.jpg
     image_position: center
     image_size: contain
     
