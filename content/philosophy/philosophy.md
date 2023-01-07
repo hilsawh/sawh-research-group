@@ -21,10 +21,18 @@ design:
   background:
     color: "black"
     text_color_light: true
-    image: chrom5his3.jpg
-    image_position: center
-    image_size: contain
-    
+    # image: chrom5his3.jpg
+    # image_position: center
+    # image_size: contain
+    video:
+    #   # Name of video in `assets/media/`.
+    #   path: Cichlid_clips_medium.mp4
+       path: elt7gfp_extralong.mp4
+    #   # Post-processing: flip the video horizontally?
+       flip: false
+
+advanced:
+  css_class: fullscreen
   
 ---
 
