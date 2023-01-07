@@ -58,6 +58,6 @@ design:
   spacing:
     padding: ['0', '0', '0', '0']
   background:
-    color: 'white'
-    text_color_light: false
+    color: 'black'
+    text_color_light: true
 ---

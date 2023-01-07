@@ -13,6 +13,8 @@ active: true
 
 title: research overview
 
+subtitle: 'the role of nuclear organization in cell fate decisions'
+
 design:
   # Choose a listing view
   view: compact
