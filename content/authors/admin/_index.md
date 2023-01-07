@@ -14,21 +14,24 @@ organizations:
     url: 'https://biochemistry.utoronto.ca/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Spatial genomics, chromosome conformation, & high-throughput developmental biology
+bio: spatial omics, chromosome conformation, & high-throughput developmental biology
 
 interests:
-  - The role of nuclear organization in cell fate decisions
-  - Spatial omics
-  - Developmental biology
+  - spatial omics
+  - genome organization
+  - high-throughput developmental biology
 
 education:
   courses:
+    - course: Post-doc
+      institution: Harvard University & University of Basel    
+    
     - course: PhD in Biochemistry
       institution: McGill University
-      year: 2015
+      
     - course: HBSc in Biochemistry, summa cum laude
       institution: McMaster University
-      year: 2007
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,6 +67,11 @@ highlight_name: true
 user_groups:
   - assistant professor
   - researchers
+  
+
 ---
 
-Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto. 
+Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto, starting May 2023. 
+{style="text-align: justify;"}
+
+{{< figure src="sawh_trajectory.jpg" caption="sawh trajectory" numbered="false" >}}

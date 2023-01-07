@@ -3,6 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 # <p style="color:#fff">SHAFER LAB - Cell & Systems Biology @ UofT COACH</p>
+active: true
 weight: 10 # Order that this section will appear.
 design:
   is_fullscreen: true

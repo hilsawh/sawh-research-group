@@ -2,8 +2,9 @@
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
-widget: portfolio
+widget: blank
 active: true
+
 # This file represents a page section.
 headless: true
 
@@ -38,6 +39,21 @@ design:
     text_color_light: true
     
 ---
+<style>
+      .button {
+        background-color: #a2bfd8;
+        border: none;
+        padding: 10px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 12px;
+      }
+    </style>
+    
 
 <p align="justify" style="color:gray;">How does one genome generate a large diversity of cell types, each with unique spatiotemporal gene expression patterns and physiological roles? How does the physical organization of the genome impact its many essential functions during the highly dynamic process of embryonic development?</p>
 
@@ -46,3 +62,11 @@ design:
 
 
 <p align="justify" style="color:gray;">We push the boundaries of high-throughput image-based spatial omics, and complement these approaches with biochemistry & genetics. Ultimately, we will answer fundamental questions that were previously untenable and gain mechanistic & quantitative insights into <em>in vivo</em> chromatin biology.</p>
+
+<p align = right>
+<a color: inherit; href="./research/" class="button">read more &rarr;</a>
+</p>
+
+<br>
+
+#insert link to research page here as clickable image
