@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 
 active: true
 
-title: publications
+title: 'publications'
 
 design:
   # Choose a listing view
