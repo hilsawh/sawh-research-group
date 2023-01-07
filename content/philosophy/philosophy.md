@@ -17,31 +17,33 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
   spacing:
-    padding: ['35px', '0', '35px', '0']
+    padding: ['10%', '0', '50%', '0']
   background:
-    color: "white"
-    text_color_light: false
-
+    color: "black"
+    text_color_light: true
+    image: chr5h3.jpg
+    image_position: center
+    image_size: contain
   
 ---
 
-<p align="justify"> We aim to ask <b>bold</b> questions, then answer them with <b>curiosity, motivation & integrity.</b> </p>
+<p align="justify" style="color:white;"> We aim to ask <b>bold</b> questions, then answer them with <b>curiosity, motivation & integrity.</b> </p>
 
-<p align="justify"> Central to our core beliefs is the establishment and maintenance of a <b>healthy research & learning environment</b>, where each lab member is respected, valued, and given the opportunity to flourish. 
+<p align="justify" style="color:white;"> Central to our core beliefs is the establishment and maintenance of a <b>healthy research & learning environment</b>, where each lab member is respected, valued, and given the opportunity to flourish. 
 
-We emphasize:
+<p align="justify" style="color:white;">We emphasize:
 
-&rarr; leading by example
+<p align="justify" style="color:white;">&rarr; leading by example
 
-&rarr; individual development plans
+<p align="justify" style="color:white;">&rarr; individual development plans
 
-&rarr; open & effective communication
+<p align="justify" style="color:white;">&rarr; open & effective communication
 
-&rarr; clear expectations of all lab members 
+<p align="justify" style="color:white;">&rarr; clear expectations of all lab members 
 
-&rarr; positivity
+<p align="justify" style="color:white;">&rarr; positivity
 
-&rarr; teamwork
+<p align="justify" style="color:white;">&rarr; teamwork
 
 </p>
 

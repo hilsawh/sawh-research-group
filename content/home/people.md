@@ -35,11 +35,5 @@ design:
   show_interests: false
   show_social: true
   show_role: false
-# design:
-#   show_interests: false
-#   show_role: true
-#   show_social: true
-#   background:
-#     color: "white"
-#     text_color_light: false
+
 ---
