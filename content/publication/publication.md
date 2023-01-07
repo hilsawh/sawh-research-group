@@ -53,13 +53,13 @@ design:
 
 <p align="left" style="color:gray;">*correspondence
 
-<p align="left" style="color:gray;">Sawh A. N.* and Mango S.E.*, Chromosome organization in 4D: insights from C. elegans development. <em>Current Opinion in Genetics & Development.</em> (2022) 75(101939). <a href="https://doi.org/10.1016/j.gde.2022.101939">DOI</a>
+<p align="left" style="color:gray;">Sawh A. N.* and Mango S.E.*, Chromosome organization in 4D: insights from <em>C. elegans</em> development. <em>Current Opinion in Genetics & Development.</em> (2022) 75(101939). <a href="https://doi.org/10.1016/j.gde.2022.101939">DOI</a>
 
 <p align="left" style="color:gray;">Shafer M.E.R.*, Sawh A.N., Schier A.F.*, Gene family evolution underlies cell type diversification in the hypothalamus of teleosts. <em>Nature Ecology and Evolution</em>. (2022). 6: 63-76. <a href="https://doi.org/10.1038/s41559-021-01580-3">DOI</a>, bioRxiv: <a href="https://doi.org/10.1101/2020.12.13.414557">DOI</a> 
 
-<p align="left" style="color:gray;">Sawh A. N.*, Shafer M.E.R., Su J.-H., Zhuang X., Wang S., Mango S.E.*, Lamina-dependent stretching and unconventional chromosome compartments in early C. elegans embryos. <em>Molecular Cell</em>. (2020) 78(1):96-111. <a href="https://doi.org/10.1016/j.molcel.2020.02.006">DOI</a>
+<p align="left" style="color:gray;">Sawh A. N.*, Shafer M.E.R., Su J.-H., Zhuang X., Wang S., Mango S.E.*, Lamina-dependent stretching and unconventional chromosome compartments in early <em>C. elegans</em> embryos. <em>Molecular Cell</em>. (2020) 78(1):96-111. <a href="https://doi.org/10.1016/j.molcel.2020.02.006">DOI</a>
 
-<p align="left" style="color:gray;">Sawh A. N.* and Mango S.E.*, Multiplexed sequential DNA FISH in C. elegans embryos. <em>STAR Protocols</em>. (2020) 100107. <a href="https://doi.org/10.1016/j.xpro.2020.100107">DOI</a>
+<p align="left" style="color:gray;">Sawh A. N.* and Mango S.E.*, Multiplexed sequential DNA FISH in <em>C. elegans</em> embryos. <em>STAR Protocols</em>. (2020) 100107. <a href="https://doi.org/10.1016/j.xpro.2020.100107">DOI</a>
 
 <p align="left" style="color:gray;">Lewis A., Berkyurek A.C., Greiner A., Sawh A.N., Vashisht A., Merrett S., Flamand M.N., Wohlschlegel J., Sarov M., Miska E.A., Duchaine T.F., A Family of Argonaute-Interacting Proteins Gates Nuclear RNAi. <em>Molecular Cell</em>. (2020) 78(5):862-875. <a href="https://doi.org/10.1016/j.molcel.2020.04.007">DOI</a>
 

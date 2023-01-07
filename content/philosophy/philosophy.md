@@ -21,9 +21,10 @@ design:
   background:
     color: "black"
     text_color_light: true
-    image: chr5h3.jpg
+    image: chrom5his3.jpg
     image_position: center
     image_size: contain
+    
   
 ---
 

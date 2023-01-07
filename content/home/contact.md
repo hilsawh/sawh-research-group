@@ -54,9 +54,9 @@ content:
 #      captcha: false
 
 design:
-  columns: '2'
+  columns: '1'
   spacing:
-    padding: ['0', '0', '0', '0']
+    padding: ['50', '0', '50', '0']
   background:
     color: 'black'
     text_color_light: true
