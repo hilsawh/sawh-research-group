@@ -19,7 +19,7 @@ content:
   user_groups:
     - assistant professor
     - technician
-    - grad students
+    - graduate students
 #    - administration
 #    - visitors
     - alumni
