@@ -69,6 +69,6 @@ user_groups:
   - researchers
 ---
 
-Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto, starting May 2023. {style="text-align: justify;"}
+Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto, starting May 2023. 
 
 {{< figure src="sawh_trajectory.jpg" caption="sawh trajectory" numbered="false" >}}
