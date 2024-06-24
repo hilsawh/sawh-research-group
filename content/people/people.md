@@ -20,7 +20,7 @@ content:
     - assistant professor
     - technician
     - graduate students
-#    - administration
+    - undergraduate students
 #    - visitors
     - alumni
 
