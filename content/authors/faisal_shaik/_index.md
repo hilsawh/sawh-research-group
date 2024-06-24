@@ -32,7 +32,7 @@ education:
   courses:
     - course: Honours Bachelor of Science in Computer Science, Physics, and Mathematics
       institution: University of Toronto
-      year: 2026
+      year: 2027
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
