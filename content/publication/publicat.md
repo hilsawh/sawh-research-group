@@ -54,6 +54,10 @@ design:
 
 <p align="left" style="color:gray;">*correspondence</p>
 
+<p align="left" style="color:gray;">Gutnik S., You J. E., Sawh A. N, Andriollo A., Mango S. E.*, Multiplex DNA fluorescence in situ hybridization to analyze maternal vs. paternal <em>C. elegans</em> chromosomes. <em>Genome Biology.</em> (2024) 25(71) <a href="https://doi.org/10.1186/s13059-024-03199-6">DOI</a></p>
+
+<p align="left" style="color:gray;">Jurczak E., Wong C., Li S., Braukmann F., Sawh A. N., Duchaine T. F., Miska E., Roy R.*, AMPK regulates small RNA pathway prevalence to mediate soma-to-germ line communication and establish germline stem cell quiescence. <em>bioRxiv.</em> (2023).11.15.567172 <a href="https://www.biorxiv.org/content/10.1101/2023.11.15.567172.abstract">DOI</a></p>
+
 <p align="left" style="color:gray;">Sawh A. N.* and Mango S.E.*, Chromosome organization in 4D: insights from <em>C. elegans</em> development. <em>Current Opinion in Genetics & Development.</em> (2022) 75(101939). <a href="https://doi.org/10.1016/j.gde.2022.101939">DOI</a></p>
 
 <p align="left" style="color:gray;">Shafer M.E.R.*, Sawh A.N., Schier A.F.*, Gene family evolution underlies cell type diversification in the hypothalamus of teleosts. <em>Nature Ecology and Evolution</em>. (2022). 6: 63-76. <a href="https://doi.org/10.1038/s41559-021-01580-3">DOI</a>, bioRxiv: <a href="https://doi.org/10.1101/2020.12.13.414557">DOI</a> </p>
