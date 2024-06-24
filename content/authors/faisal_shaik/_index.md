@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Zoe Ang
+title: Faisal Shaik
 
 # Username (this should match the folder name)
 authors:
-  - zoe_ang
+  - faisal_shaik
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Technician
+role: Undergraduate Researcher, Data Sciences Institute SUDS Program
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,18 @@ organizations:
 bio: 
 
 interests:
-  - knitting & crocheting 
-  - Netflix 
-  - fitness 
-  - cooking
+  - cats
+  - music
+  - muay thai
+  - coding
+  - physics and math
+  - manga/webtoons
 
 education:
   courses:
-    - course: BSc in Life Sciences, Sensory Motor Systems, Graduated with Distinction
-      institution: McMaster University
-      year: 2023
+    - course: Honours Bachelor of Science in Computer Science, Physics, and Mathematics
+      institution: University of Toronto
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zoe.ang@utoronto.ca'
+    link: 'mailto:faisal.shaik@mail.utoronto.ca'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -61,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - technician
+  - undergraduate students
 ---
 
 

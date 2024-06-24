@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Zoe Ang
+title: Waleed Alsarhani
 
 # Username (this should match the folder name)
 authors:
-  - zoe_ang
+  - waleed_alsarhani
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Technician
+role: Undergraduate Researcher, Data Sciences Institute SUDS Program
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto
+  - name: KAUST
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - knitting & crocheting 
-  - Netflix 
-  - fitness 
-  - cooking
+  - programming
+  - anime
+  - video games
+  - food
 
 education:
   courses:
-    - course: BSc in Life Sciences, Sensory Motor Systems, Graduated with Distinction
-      institution: McMaster University
-      year: 2023
+    - course: Computer Science
+      institution: King Abdullah University of Science & Technology (KAUST)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zoe.ang@utoronto.ca'
+    link: 'mailto:waleed.alsarhani.sa@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - technician
+  - undergraduate students
 ---
 
 
