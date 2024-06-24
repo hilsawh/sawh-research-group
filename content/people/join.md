@@ -27,6 +27,6 @@ design:
     text_color_light: false
 ---
 
-<p align="justified" style="color:gray;"><b>We are building a diverse team of scientists. Research in the lab bridges spatial genomics, cell & developmental biology, computational biology, biochemistry & systems biology.</b></p> 
+<p align="justified" style="color:gray;">We are building a diverse team of scientists. Research in the lab bridges spatial genomics, cell & developmental biology, computational biology, biochemistry & systems biology.</p> 
 
-<p align="justified" style="color:gray;"><b>If you are interested in our research questions & our lab philosophy, reach out to Ahilya to discuss joining our team in Toronto! Please include a brief statement of interest (why our lab in particular?), CV, and contact info for 2 referees. We will be recruiting students through the Biochemistry program at UofT starting in Fall 2023.</b></p>
+<p align="justified" style="color:gray;">If you are interested in our research questions & our lab philosophy, reach out to Ahilya by email to discuss joining our team in Toronto. Please include a brief statement of interest (why our lab in particular?), CV, and contact info for 2 referees. We are recruiting students through the rotation-based Biochemistry graduate program at UofT. Successful applicants to the program are encouraged to reach out to Ahilya to discuss rotation opportunities. Graduate students in our lab have the option to enrich their Biochemistry degree by joining the Collaborative Specialization in Developmental Biology or the Collaborative Specialization in Genome Biology and Bioinformatics.</p>

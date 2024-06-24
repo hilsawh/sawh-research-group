@@ -14,7 +14,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto
+  - name: University of Toronto, Collaborative Specialization in Developmental Biology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

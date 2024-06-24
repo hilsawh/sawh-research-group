@@ -6,7 +6,7 @@ title: Ahilya Sawh
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor, Canada Research Chair in 4D Genomics
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,11 @@ organizations:
 bio: spatial omics, chromosome conformation, & high-throughput developmental biology
 
 interests:
+  - gardening
+  - cooking
   - spatial omics
   - genome organization
-  - high-throughput developmental biology
+  - high-throughput cell & developmental biology
 
 education:
   courses:
@@ -69,6 +71,6 @@ user_groups:
   - researchers
 ---
 
-Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto, starting May 2023. 
+Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto, and Canada Research Chair in 4D Genomics. 
 
 {{< figure src="sawh_trajectory.jpg" caption="sawh trajectory" numbered="false" >}}
