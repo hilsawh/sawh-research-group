@@ -42,9 +42,9 @@ advanced:
 
 <p align="justify" style="color:white;">We emphasize:
 
-<p align="justify" style="color:white;">&rarr; leading by example
+<p align="justify" style="color:white;">&rarr; scientific rigour
 
-<p align="justify" style="color:white;">&rarr; individual development plans
+<p align="justify" style="color:white;">&rarr; leadership
 
 <p align="justify" style="color:white;">&rarr; open & effective communication
 
