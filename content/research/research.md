@@ -38,4 +38,10 @@ design:
 
 <p align="justify" style="color:gray;">We push the boundaries of high-throughput image-based spatial omics & bioimage analysis, and complement these approaches with biochemistry & genetics. Ultimately, we will answer fundamental questions that were previously untenable and gain mechanistic & quantitative insights into <em>in vivo</em> chromatin biology.</p>
 
+We are grateful for generous funding to pursue our research goals from:
 
+{{< figure src="BCH.jpg" caption="" numbered="false" >}}
+{{< figure src="CRC2.jpg" caption="" numbered="false" >}}
+{{< figure src="CIHR.jpg" caption="" numbered="false" >}}
+{{< figure src="NSERC_RGB.jpg" caption="" numbered="false" >}}
+{{< figure src="HFSP.jpg" caption="" numbered="false" >}}

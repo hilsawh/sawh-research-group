@@ -73,4 +73,4 @@ user_groups:
 
 Ahilya Sawh is an Assistant Professor in the Department of Biochemistry at the University of Toronto, and Canada Research Chair in 4D Genomics. 
 
-{{< figure src="sawh_trajectory.jpg" caption="sawh trajectory" numbered="false" >}}
+{{< figure src="sawh_trajectory.jpg" caption="" numbered="false" >}}
