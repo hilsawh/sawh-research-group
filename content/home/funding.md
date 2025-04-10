@@ -36,7 +36,7 @@ design:
   spacing: {padding: [35px, 0, 35px, 0]}
   background:
     color: "white"
-    text_color_light: true
+    text_color_light: false
     
 ---
 <style>
