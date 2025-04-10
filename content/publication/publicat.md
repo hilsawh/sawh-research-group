@@ -54,6 +54,8 @@ design:
 
 <p align="left" style="color:gray;">*correspondence</p>
 
+<p align="left" style="color:gray;">Wan Y.*, El Kholtei J., Jenie I., Colomer-Rosell M., Liu J., Acedo J., Du L., Codina-Tobias M., Wang M., Sawh A.N., Lin E., Chuang T., Mango S., Yu G., Bintu B. *, and Schier A.F. *, Whole-embryo Spatial Transcriptomics at Subcellular Resolution from Gastrulation to Organogenesis. <em>bioRxiv</em> (2024) <a href="https://doi.org/10.1101/2024.08.27.609868">DOI</a></p>
+
 <p align="left" style="color:gray;">Gutnik S., You J. E., Sawh A. N, Andriollo A., Mango S. E.*, Multiplex DNA fluorescence in situ hybridization to analyze maternal vs. paternal <em>C. elegans</em> chromosomes. <em>Genome Biology.</em> (2024) 25(71) <a href="https://doi.org/10.1186/s13059-024-03199-6">DOI</a></p>
 
 <p align="left" style="color:gray;">Jurczak E., Wong C., Li S., Braukmann F., Sawh A. N., Duchaine T. F., Miska E., Roy R.*, AMPK regulates small RNA pathway prevalence to mediate soma-to-germ line communication and establish germline stem cell quiescence. <em>bioRxiv.</em> (2023).11.15.567172 <a href="https://www.biorxiv.org/content/10.1101/2023.11.15.567172.abstract">DOI</a></p>
