@@ -40,8 +40,4 @@ design:
 
 We are grateful for generous funding to pursue our research goals from:
 
-{{< figure src="BCH.jpg" caption="" numbered="false" >}}
-{{< figure src="CRC2.jpg" caption="" numbered="false" >}}
-{{< figure src="CIHR.jpg" caption="" numbered="false" >}}
-{{< figure src="NSERC_RGB.jpg" caption="" numbered="false" >}}
-{{< figure src="HFSP.jpg" caption="" numbered="false" >}}
+{{< figure src="funding.jpg" caption="" numbered="false" >}}
