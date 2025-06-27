@@ -45,7 +45,7 @@ social:
     link: 'mailto:ahilya.sawh@utoronto.ca'
   # - icon: twitter
   #   icon_pack: fab
-  #   link: https://twitter.com/hilsawh
+  #   link: https://bsky.app/profile/hilsawh.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=j8tSQNUAAAAJ&hl=en
