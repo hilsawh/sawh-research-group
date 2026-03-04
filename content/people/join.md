@@ -38,11 +38,6 @@ Start date: September annually
 
 All positions will be full-time, in-person at our lab in MaRS (downtown Toronto, Ontario). 
 
-If you are interested in the Postdoc position, please reach out to <ahilya.sawh@utoronto.ca> directly by email including:
-1. Statement of interest (Why are you interested in our lab? Why are you an ideal candidate?). 
-2. Detailed CV. 
-3. Names and contact information for 3 (preferably academic) referees, indicating how long you have known each referee and in what capacity. 
-
 If you are interested in graduate studies with us, you must first apply to and be accepted into the rotation-based Biochemistry program at the University of Toronto.
 
 </p>
