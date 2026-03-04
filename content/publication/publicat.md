@@ -54,8 +54,6 @@ design:
 
 <p align="left" style="color:gray;">*correspondence</p>
 
-<p align="left" style="color:gray;">Authors, Title. <em>Journal.</em> (Year) Vol(I) <a href="link">DOI</a></p>
-
 <p align="left" style="color:gray;">Konstantinos Ntemos, Fei Xu, Nour-Zaynab Bazzi, Geoffrey Fucile, Hermina Petric Maretic, Ivan Dokmanic, Susan E. Mango*, Ahilya N. Sawh*, Rapid canalization of chromosome conformation-transcription fingerprints during embryogenesis revealed by fully-automated cell identity decoding with CeSCALE. <em>bioRxiv</em> (2025) <a href="https://doi.org/10.1101/2025.10.22.684035">DOI</a></p>
 
 <p align="left" style="color:gray;">Dania Camila Pulido Barrera, Jia E You, Fei Xu, Tobias Verheijen, Ahilya N Sawh, Pavel Kos, Luca Giorgetti, Nacho Molina, David Brückner, Susan E Mango, Single-molecule chromosome tracing reveals a diversity of megabase heterochromatin domains. <em>bioRxiv</em> (2025) <a href="https://doi.org/10.1101/2025.09.03.673923">DOI</a></p>
