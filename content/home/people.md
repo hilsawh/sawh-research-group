@@ -19,8 +19,8 @@ content:
     - assistant professor
     - technician
     - graduate students
+    - postdocs
     - undergraduate students
-    - post-docs
     - alumni
     
 design:
