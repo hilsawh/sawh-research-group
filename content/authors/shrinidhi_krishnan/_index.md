@@ -1,38 +1,34 @@
 ---
 # Display name
-title: Faisal Shaik
+title: Shrinidhi Krishnan
 
 # Username (this should match the folder name)
 authors:
-  - faisal_shaik
+  - shrinidhi_krishnan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher, Data Sciences Institute SUDS Program
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto
+  - name: University of Toronto, Cell and Systems Biology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - cats
-  - music
-  - muay thai
-  - coding
-  - physics and math
-  - manga/webtoons
+
 
 education:
   courses:
-    - course: Honours Bachelor of Science in Computer Science, Physics, and Mathematics
-      institution: University of Toronto
-      year: 2027
+    - course: BSc in Biomedical Computing
+      institution: Queens University
+      year: 2025
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:faisal.shaik@mail.utoronto.ca'
+    link: 'mailto:shrinidhi.krishnan@mail.utoronto.ca'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -63,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - alumni
+  - graduate students
 ---
 
 

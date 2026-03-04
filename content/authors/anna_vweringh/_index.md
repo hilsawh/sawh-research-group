@@ -1,38 +1,40 @@
 ---
 # Display name
-title: Faisal Shaik
+title: Anna van Weringh
 
 # Username (this should match the folder name)
 authors:
-  - faisal_shaik
+  - anna_vweringh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher, Data Sciences Institute SUDS Program
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto
+  - name: University of Toronto, Biochemistry
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - cats
-  - music
-  - muay thai
-  - coding
-  - physics and math
-  - manga/webtoons
+
 
 education:
   courses:
-    - course: Honours Bachelor of Science in Computer Science, Physics, and Mathematics
+    - course: PhD in Cell and Systems Biology
       institution: University of Toronto
-      year: 2027
+      year: 2023
+    - course: MSc in Biology (specialization in Bioinformatics)
+      institution: University of Ottawa
+      year: 2011
+    - course: BSc in Biopharmaceutical Science (specialization in Genomics)
+      institution: University of Ottawa
+      year: 2009    
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:faisal.shaik@mail.utoronto.ca'
+    link: 'mailto:a.vanweringh@utoronto.ca'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -63,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - alumni
+  - postdocs
 ---
 
 

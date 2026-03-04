@@ -20,6 +20,7 @@ content:
     - assistant professor
     - technician
     - graduate students
+    - postdocs
     - undergraduate students
 #    - visitors
     - alumni
