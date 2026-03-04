@@ -54,6 +54,14 @@ design:
 
 <p align="left" style="color:gray;">*correspondence</p>
 
+<p align="left" style="color:gray;">Authors, Title. <em>Journal.</em> (Year) Vol(I) <a href="link">DOI</a></p>
+
+<p align="left" style="color:gray;">Konstantinos Ntemos, Fei Xu, Nour-Zaynab Bazzi, Geoffrey Fucile, Hermina Petric Maretic, Ivan Dokmanic, Susan E. Mango*, Ahilya N. Sawh*, Rapid canalization of chromosome conformation-transcription fingerprints during embryogenesis revealed by fully-automated cell identity decoding with CeSCALE. <em>bioRxiv</em> (2025) <a href="https://doi.org/10.1101/2025.10.22.684035">DOI</a></p>
+
+<p align="left" style="color:gray;">Dania Camila Pulido Barrera, Jia E You, Fei Xu, Tobias Verheijen, Ahilya N Sawh, Pavel Kos, Luca Giorgetti, Nacho Molina, David Brückner, Susan E Mango, Single-molecule chromosome tracing reveals a diversity of megabase heterochromatin domains. <em>bioRxiv</em> (2025) <a href="https://doi.org/10.1101/2025.09.03.673923">DOI</a></p>
+
+<p align="left" style="color:gray;">Rahi Navelkar, Andrea Cosolo, Bogdan Bintu, Yubao Cheng, Vincent Gardeux, Silvia Gutnik, Taihei Fujimori, Antonina Hafner, Atishay Jay, Bojing Blair Jia, Adam Paul Jussila, Gerard Llimos, Antonios Lioutas, Nuno MC Martins, William J Moore, Yodai Takei, Frances Wong, Kaifu Yang, Huaiying Zhang, Quan Zhu, Magda Bienko, Lacramioara Bintu, Long Cai, Bart Deplancke, Marcelo Nollmann, Susan E Mango, Bing Ren, Peter J Park, Ahilya N Sawh, Andrew Schroeder, Jason R Swedlow, Golnaz Vahedi, Chao-Ting Wu, Sarah Aufmkolk, Alistair N Boettiger, Irene Farabella, Caterina Strambio-De-Castillia, Siyuan Wang, FAIR sharing of chromatin tracing datasets using the newly developed 4DN FISH omics format. <em>aRxiv</em> (2025) <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12393234/">DOI</a></p>
+
 <p align="left" style="color:gray;">Wan Y.*, El Kholtei J., Jenie I., Colomer-Rosell M., Liu J., Acedo J., Du L., Codina-Tobias M., Wang M., Sawh A.N., Lin E., Chuang T., Mango S., Yu G., Bintu B. *, and Schier A.F. *, Whole-embryo Spatial Transcriptomics at Subcellular Resolution from Gastrulation to Organogenesis. <em>bioRxiv</em> (2024) <a href="https://doi.org/10.1101/2024.08.27.609868">DOI</a></p>
 
 <p align="left" style="color:gray;">Gutnik S., You J. E., Sawh A. N, Andriollo A., Mango S. E.*, Multiplex DNA fluorescence in situ hybridization to analyze maternal vs. paternal <em>C. elegans</em> chromosomes. <em>Genome Biology.</em> (2024) 25(71) <a href="https://doi.org/10.1186/s13059-024-03199-6">DOI</a></p>

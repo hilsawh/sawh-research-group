@@ -33,9 +33,6 @@ design:
 
 <p align="justified" style="color:gray;">
 
-# A) Post-doc: Ideal for a candidate with substantial computational biology skills demonstrated by publication record. The postdoc will lead an HFSP-funded project on 'spatial translatomics during development' in collaboration with two other labs (France & UK).
-# Start date: January 2026.
-
 PhD students: Ideal for curious and motivated students interested in studying the functional roles of genome organization during embryonic development. Graduate students in our lab have the option to enrich their Biochemistry degree by joining the Collaborative Specialization in Developmental Biology or the Collaborative Specialization in Genome Biology and Bioinformatics.
 Start date: September annually
 
