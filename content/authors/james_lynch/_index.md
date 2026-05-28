@@ -21,8 +21,6 @@ organizations:
 bio: 
 I am a summer student in the Sawh lab working on computational tools for analyzing microscopy images. I am also an incoming master's student in biochemistry with Dr. Vera-Ugalde's lab at McGill. My hobbies include hockey, chess, and working out.
 
-
-
 education:
   courses:
     - course: Biology and Computer Science

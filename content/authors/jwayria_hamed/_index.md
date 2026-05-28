@@ -19,6 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+
 My name is Jwayria Hamed, and I am a Biomedical Science undergraduate student at Toronto Metropolitan University. I am interested in medical biology and research, particularly cell and molecular biology and genetics. Outside of academics, I enjoy crocheting, junk journaling, basketball, tennis, swimming, reading novels in both Arabic and English, learning sign language, teaching, and video editing. I also enjoy spending time with friends and trying different foods.
 
 
