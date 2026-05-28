@@ -14,7 +14,7 @@ role: Undergraduate Researcher, Data Sciences Institute SUDS Program
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto
+  - name: University of Toronto Mississauga
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,7 +31,7 @@ interests:
 education:
   courses:
     - course: Honours Bachelor of Science in Computer Science, Physics, and Mathematics
-      institution: University of Toronto
+      institution: University of Toronto Mississauga
       year: 2027
 
 # Social/Academic Networking

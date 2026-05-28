@@ -28,7 +28,9 @@ education:
     - course: HBSc in Integrated Science
       institution: McMaster University
       year: 2023
-
+    - course: MSc in Biochemistry
+      institution: University of Toronto
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,4 +64,4 @@ user_groups:
   - alumni
 ---
 
-
+Natalie was our first MSc graduate (2023-2025) and moved on to medical school at Queen's University.
