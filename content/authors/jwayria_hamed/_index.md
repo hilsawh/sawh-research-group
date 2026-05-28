@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Biomedical Science undergraduate student at Toronto Metropolitan University. I am interested in medical biology and research, particularly cell and molecular biology and genetics.  
+bio:  
 
 interests:
   - I enjoy crocheting, junk journaling, basketball, tennis, swimming, reading novels in both Arabic and English, learning sign language, teaching, and video editing. I also enjoy spending time with friends and trying different foods. 
@@ -61,3 +61,5 @@ email: ''
 user_groups:
   - undergraduate students
 ---
+
+I am a Biomedical Science undergraduate student at Toronto Metropolitan University. I am interested in medical biology and research, particularly cell and molecular biology and genetics. 

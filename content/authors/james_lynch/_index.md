@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a summer student in the Sawh lab working on computational tools for analyzing microscopy images. I am also an incoming master's student in biochemistry with Dr. Vera-Ugalde's lab at McGill. 
+bio: 
 
 interests:
   - hockey 
@@ -63,3 +63,5 @@ email: ''
 user_groups:
   - undergraduate students
 ---
+
+I am a summer student in the Sawh lab working on computational tools for analyzing microscopy images. I am also an incoming master's student in biochemistry with Dr. Vera-Ugalde's lab at McGill. 
