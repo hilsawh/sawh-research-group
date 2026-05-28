@@ -1,47 +1,40 @@
 ---
 # Display name
-title: Faisal Shaik
+title: James Lynch
 
 # Username (this should match the folder name)
 authors:
-  - faisal_shaik
+  - james_lynch
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher, Data Sciences Institute SUDS Program
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto
+  - name: McGill University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-interests:
-  - cats
-  - music
-  - muay thai
-  - coding
-  - physics and math
-  - manga/webtoons
+I am a summer student in the Sawh lab working on computational tools for analyzing microscopy images. I am also an incoming master's student in biochemistry with Dr. Vera-Ugalde's lab at McGill. My hobbies include hockey, chess, and working out.
 
 education:
   courses:
-    - course: Honours Bachelor of Science in Computer Science, Physics, and Mathematics
-      institution: University of Toronto
-      year: 2027
+    - course: Biology and Computer Science
+      institution: McGill University
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:faisal.shaik@mail.utoronto.ca'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:james.lynch4@mail.mcgill.ca'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -63,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - alumni
+  - undergraduate students
 ---
 
 
