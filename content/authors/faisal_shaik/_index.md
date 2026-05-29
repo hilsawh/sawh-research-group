@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Faisal Shaik
+title: Faisal Shaik (DSI UG 2024)
 
 # Username (this should match the folder name)
 authors:

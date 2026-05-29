@@ -21,7 +21,7 @@ content:
     - graduate students
     - postdocs
     - undergraduate students
-    - alumni
+ #   - alumni
     
 design:
   background:

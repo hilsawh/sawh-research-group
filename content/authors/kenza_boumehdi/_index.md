@@ -64,4 +64,5 @@ user_groups:
   - graduate students
 ---
 
+Kenza was a previous Biochemistry summer student (2024) in our lab before joining for her PhD in 2025!
 

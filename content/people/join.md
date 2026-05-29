@@ -34,6 +34,7 @@ design:
 <p align="justified" style="color:gray;">
 
 PhD students: Ideal for curious and motivated students interested in studying the functional roles of genome organization during embryonic development. Graduate students in our lab have the option to enrich their Biochemistry degree by joining the Collaborative Specialization in Developmental Biology or the Collaborative Specialization in Genome Biology and Bioinformatics.
+
 Start date: September annually
 
 All positions will be full-time, in-person at our lab in MaRS (downtown Toronto, Ontario). 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Natalie Kwong
+title: Natalie Kwong (MSc 2023-2025)
 
 # Username (this should match the folder name)
 authors:

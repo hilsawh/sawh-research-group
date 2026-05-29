@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Waleed Alsarhani
+title: Waleed Alsarhani (DSI UG 2024)
 
 # Username (this should match the folder name)
 authors:
