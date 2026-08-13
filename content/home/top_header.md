@@ -11,8 +11,7 @@ design:
     #image: rainbow_merge.jpg
     video:
     #   # Name of video in `assets/media/`.
-    #   path: Cichlid_clips_medium.mp4
-       path: rainbryo_extralong.mp4
+       path: rainbryo_2026logo.mp4
     #   # Post-processing: flip the video horizontally?
        flip: false
 
