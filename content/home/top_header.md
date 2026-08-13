@@ -11,7 +11,7 @@ design:
     #image: rainbow_merge.jpg
     video:
     #   # Name of video in `assets/media/`.
-       path: rainbryo_2026logo.mp4
+       path: rainbryo_2026logo_big.mp4
     #   # Post-processing: flip the video horizontally?
        flip: false
 
